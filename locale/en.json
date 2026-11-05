@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Staging List",
+    "description": "Keeps a per-session list of unsent drafts above the composer, each one editable and sendable on its own."
+  }
+}

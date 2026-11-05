@@ -1,0 +1,3 @@
+- insert:
+    - id: staging-list
+      name: '@ixtwuko/dsh-staging-list'
